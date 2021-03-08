@@ -10,15 +10,19 @@
 ---
 
 ## Me at a glance
-[![trophy](https://github-profile-trophy.vercel.app/?username=SeekerHub)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeekerHub&show_icons=true) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SeekerHub&show_icons=true&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeekerHub)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeekerHub&show_icons=true&theme=radical) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeekerHub&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/SeekerHub) 
+
 <!--
 **SeekerHub/SeekerHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
