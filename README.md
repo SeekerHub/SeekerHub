@@ -11,7 +11,7 @@
 
 ## Me at a glance
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SeekerHub&show_icons=true&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SeekerHub&show_icons=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeekerHub&show_icons=true&theme=radical) 
 
