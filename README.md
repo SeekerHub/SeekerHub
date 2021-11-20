@@ -5,7 +5,8 @@
 - Lets have a cup of coffee and discuss how amazing coding is, connect in<a href="https://www.facebook.com/bhavesh.gandhi.927/" target="_blank"> Facebook</a> or <a href="https://www.instagram.com/_bhavesh.here_/?hl=en" target="_blank"> Instagram</a>
 - Join my <a href="https://discord.gg/QTTmDjg" target="_blank">Discord</a> server
 - Sharing updates on <a href="https://www.linkedin.com/in/bhavesh-g-23672416b/" target="_blank">LinkedIn</a> 💼
-- Reseach Intern at Athabasca University Canada.(Supervisor - Dr. Maiga Chang) (June 2021 - Aug 2021).
+- Former Reseach Intern and Developer at Athabasca University Canada.(Supervisor - Dr. Maiga Chang) (June 2021 - Aug 2021).
+- ✉️ How to reach me : Email me at : bhaveshgandhi1999@gmail.com
 ---
 
 ## Me at a glance
