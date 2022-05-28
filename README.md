@@ -12,6 +12,10 @@
 
 - https://seekerhub.github.io/Portfolio/
 
+##  👽 Coding :
+
+<a href="https://leetcode.com/_droid_/" target="_blank"><img src = "https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
+
 ## 💼 Social Media :
 
  <a href="https://www.linkedin.com/in/bhavesh-g-23672416b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://www.instagram.com/_bhavesh.here_/" target="_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
