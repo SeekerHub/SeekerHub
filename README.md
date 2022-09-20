@@ -1,11 +1,11 @@
 # Hi, I'm Bhavesh 👋🏼 
 
 
-- 🎓 I am final year undergraduate student studying Electrical Engineering.
-- 👩‍💻 I have built development skills in my past year developing self project and internships and currently working on increasing my problem solving skills using competetive coding.
+- 🎓 I am currently working as a Specialist Programmer at Infosys.
+- 👩‍💻 I like problem solving and love to test myself in competitive coding platforms .
 - 💻 Former Reseach Intern and Developer at Athabasca University Canada.(Supervisor - Dr. Maiga Chang) (June 2021 - Aug 2021).
 - ⚡ Fun fact: I love to draw sketches in my free time.
-- ✉️ How to reach me : Email me at : bhaveshgandhi1999@gmail.com
+- ✉️ How to reach me : Email me at : bhaveshgandhi1999@gmail.com/bhavesh.work.99@gmail.com
 
 
 ## 👨‍🎓 Portfolio : 
