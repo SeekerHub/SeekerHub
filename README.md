@@ -25,9 +25,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SeekerHub&show_icons=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeekerHub&show_icons=true&theme=radical) 
-
-![Profile views](https://gpvc.arturio.dev/SeekerHub) 
 
 <!--
 **SeekerHub/SeekerHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
