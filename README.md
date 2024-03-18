@@ -18,7 +18,8 @@
 
 ## 💼 Social Media :
 
- <a href="https://www.linkedin.com/in/bhavesh-g-23672416b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://www.instagram.com/_bhavesh.here_/" target="_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/bhavesh-g-23672416b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<!-- <a href="https://www.instagram.com/_bhavesh.here_/" target="_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <!--  <a href="https://www.fiverr.com/droidkiddo?up_rollout=true" target="_blank"><img src = "https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
  -->
 ## Me at a glance
