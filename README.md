@@ -10,7 +10,7 @@
 
 ## 👨‍🎓 Portfolio : 
 
-- https://seekerhub.github.io/Portfolio/
+- Coming Soon!!
 
 ##  👽 Coding :
 
