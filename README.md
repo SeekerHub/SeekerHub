@@ -10,7 +10,7 @@
 
 ## 👨‍🎓 Portfolio : 
 
-- Coming Soon!!
+[Click here](https://personal-portfolio-lac-rho.vercel.app/)
 
 ##  👽 Coding :
 
